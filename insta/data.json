@@ -1,0 +1,34 @@
+{
+    "data" : 
+    [
+        {
+            "pics" : "asdasd2.jpg",
+            "hastag" : "#szerelmemmel<3😘❤️",
+            "like" : 59824 
+        },
+        
+        {
+            "pics" : "asdasd3.jpg",
+            "hastag" : "#nagygondolkodásokban🗯",
+            "like" : 12456
+        },
+        
+        {
+            "pics" : "asdasd4.jpg",
+            "hastag" : "#interjúsdi",
+            "like" : 82567  
+        },
+        
+        {
+            "pics" : "asdasd5.jpg",
+            "hastag" : "#mondaymood:/😕",
+            "like" : 42547 
+        },
+        
+        {
+            "pics" : "asdasd6.jpg",
+            "hastag" : "#napsütésesszépnapot😎",
+            "like" : 37654  
+        }
+    ]
+}
